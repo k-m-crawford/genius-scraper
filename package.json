@@ -1,6 +1,6 @@
 {
   "name": "genius-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a nodejs module to use to scrape lyrics from Genius + wrap the API",
   "main": "index.js",
   "keywords": [
