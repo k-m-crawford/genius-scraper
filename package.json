@@ -1,0 +1,19 @@
+{
+  "name": "genius-scraper",
+  "version": "1.0.0",
+  "description": "a nodejs module to use to scrape lyrics from Genius + wrap the API",
+  "main": "index.js",
+  "keywords": [
+    "genius",
+    "api",
+    "scraper",
+    "nodejs",
+    "node"
+  ],
+  "author": "K. M. Crawford",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "phin": "^3.6.0"
+  }
+}
